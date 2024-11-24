@@ -1,0 +1,15 @@
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\obj\Debug\net6.0\paskalUcgeni.csproj.AssemblyReference.cache
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\obj\Debug\net6.0\paskalUcgeni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\obj\Debug\net6.0\paskalUcgeni.AssemblyInfoInputs.cache
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\obj\Debug\net6.0\paskalUcgeni.AssemblyInfo.cs
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\obj\Debug\net6.0\paskalUcgeni.csproj.CoreCompileInputs.cache
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\bin\Debug\net6.0\paskalUcgeni.exe
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\bin\Debug\net6.0\paskalUcgeni.deps.json
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\bin\Debug\net6.0\paskalUcgeni.runtimeconfig.json
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\bin\Debug\net6.0\paskalUcgeni.dll
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\bin\Debug\net6.0\paskalUcgeni.pdb
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\obj\Debug\net6.0\paskalUcgeni.dll
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\obj\Debug\net6.0\refint\paskalUcgeni.dll
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\obj\Debug\net6.0\paskalUcgeni.pdb
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\obj\Debug\net6.0\paskalUcgeni.genruntimeconfig.cache
+C:\Users\dndag\Desktop\paskalUcgeni\paskalUcgeni\obj\Debug\net6.0\ref\paskalUcgeni.dll
